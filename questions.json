@@ -1,0 +1,94 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Arina is planning to buy different coloured balloons for the party. Add and fill in the blank box to find how many balloons she bought in total.",
+    "options":["20","+","30","=",""],
+    "answers": ["20","+","30","=","50"]
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Help Arina to add and fill in the bank box to set up the tables for the party.",
+    "options":["40","+","30","=",""],
+    "answers": ["40","+","30","=","70"]
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Add and fill in the blank box to find how many chairs she has arranged in total.",
+    "options":["60","+","40","=",""],
+    "answers": ["60","+","40","=","100"]
+  },
+  {
+    "questionNo": 4,
+    "question": "She needs to buy streamers for the decorations. Add and fill in the blank box to find how many streamers she bought in total.",
+    "options":["50","+","20","=",""],
+    "answers": ["50","+","20","=","70"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Add and fill in the blank box to find how many goodie bags she made in total.",
+    "options":["80","+","10","=",""],
+    "answers": ["80","+","10","=","90"]
+  },
+  {
+    "questionNo": 6,
+    "question": "Add and fill in the blank box to find how many treats she ordered altogether.",
+    "options":["55","+","30","=",""],
+    "answers": ["55","+","30","=","85"]
+  },
+  {
+    "questionNo": 7,
+    "question": "Help Arina add and fill in the blank box to find how many plates Arina has set up in total.",
+    "options":["76","+","10","=",""],
+    "answers": ["76","+","10","=","86"]
+  },
+  {
+    "questionNo": 8,
+    "question": "Arina orders cupcakes for the party. Add and fill in the blank box to find how many cupcakes she bought in total.",
+    "options":["41","+","20","=",""],
+    "answers": ["41","+","20","=","61"]
+  },
+  {
+    "questionNo": 9,
+    "question": " For the party decorations add and fill in the blank box to find how many flowers she bought in total.",
+    "options":["500","+","200","=",""],
+    "answers": ["500","+","200","=","700"]
+  },
+  {
+    "questionNo": 10,
+    "question": "Add and fill in the blank box to find how many drinks she prepared in total for the party.",
+    "options":["608","+","300","=",""],
+    "answers": ["608","+","300","=","908"]
+  },
+  {
+    "questionNo": 11,
+    "question": "Add and fill in the blank box to help Arina find the total number of guests coming to the party.",
+    "options":["115","+","400","=",""],
+    "answers": ["115","+","400","=","515"]
+  },
+  {
+    "questionNo": 12,
+    "question": "Arina sets up party hats. Add and fill in the blank box to find how many party hats she has set up in total.",
+    "options":["246","+","200","=",""],
+    "answers": ["246","+","200","=","446"]
+  },
+  {
+    "questionNo": 13,
+    "question": "Help her add and fill in the blank box to find how many snack items she bought in total.",
+    "options":["700","+","156","=",""],
+    "answers": ["700","+","156","=","856"]
+  },
+  {
+    "questionNo": 14,
+    "question": "Arina orders different pizzas for the party. Add and fill in the blank box to find how many pizzas she ordered in total.",
+    "options":["234","+","500","=",""],
+    "answers": ["234","+","500","=","734"]
+  },
+  {
+    "questionNo": 15,
+    "question": "She buys candles for the cake and party decorations. Add and fill in the blank box to find how many candles she bought in total.",
+    "options":["342","+","600","=",""],
+    "answers": ["342","+","600","=","942"]
+  }
+]
